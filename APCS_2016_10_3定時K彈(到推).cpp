@@ -1,4 +1,4 @@
-//c296: APCS-2016-1029-3©w®ÉK¼u
+//c296: APCS-2016-1029-3Â©wÂ®Ã‰KÂ¼u
 
 #include<iostream>
 
